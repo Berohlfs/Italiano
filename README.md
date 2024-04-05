@@ -1,7 +1,7 @@
-# Learning Italian
+# Italiano
  
-I have created this repo to document my learning of the Italian language. My notes will be written in Portuguese and English.
+Eu criei este repositório com a intenção de documentar meu aprendizado da língua italiana.
 
-## Summary
+## Sumário
 
-* [Phonetics](./content/1_phonetics)
+* [Fonética](./content/1_fonetica/index.md)
