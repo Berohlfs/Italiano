@@ -4,4 +4,4 @@ I have created this repo to document my learning of the Italian language. My not
 
 ## Summary
 
-* [](./content/)
+* [Phonetics](./content/1_phonetics)
