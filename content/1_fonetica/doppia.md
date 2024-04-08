@@ -1,3 +1,5 @@
+[Voltar](./index.md)
+
 # Doppia
 
 Uma 'doppia' ocorre quando existe a duplicação de uma consoante. Essa pequena diferença na gramática da língua italiana gera duplas de palavras com significados distintos, apesar de semelhantes na escrita. Alguns exemplos são:
