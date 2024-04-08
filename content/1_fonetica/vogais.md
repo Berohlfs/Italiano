@@ -19,15 +19,13 @@ As vogais fechadas, na verdade, podem soar fechadas ou abertas.
 
 ## Ditongos
 
-Ditongos são encontros entre uma vogal e uma semivogal. Exemplos são:
+Ditongos são encontros entre uma vogal e uma semivogal. Alguns exemplos são:
 
 * uo
 * ui
 * iu
 * eu
 * eo
-
----
 
 ## Observações
 
