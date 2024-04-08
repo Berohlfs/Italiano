@@ -52,29 +52,29 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 
 ## Vocabulário
 
-### M
+### Letra M
 
 * Mano (mão)
 * Mare (mar)
 * Mamma (mãe)
 
-### D
+### Letra D
 
 * Dado 
 * Dollaro (dólar)
 * Drago (dragão)
 
-# N
+### Letra N
 
 * Nuvola (nuvem)
 * Nave (navio)
 * Nonno (Avô)
 
-### R
+### Letra R
 
 * Rosso (vermelho)
 
-### C
+### Letra C
 
 * Cavallo (cavalo)
 * Caffè (café)
@@ -82,11 +82,11 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 * Cena (jantar)
 * Città (cidade)
 
-### F
+### Letra F
 
 * Facile (fácil)
 
-### CH
+### Letra CH
 
 * Chiesa (igreja)
 * Occhi (olhos)
@@ -95,7 +95,7 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 * Tasche (bolso)
 * Scherzare (zoar/brincar)
 
-### G
+### Letra G
 
 * Gatto (gato)
 * Gondola
@@ -106,7 +106,7 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 * Gente
 * Ghiaccio (gelo)
 
-### GL 
+### Letra GL 
 
 * Aglio (alho)
 * Foglia (folha)
@@ -120,7 +120,7 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 * Bagno (banheiro)
 * Sognare (sonhar)
 
-### S
+### Letra S
 
 * Sempre
 * Suono (som)
@@ -128,7 +128,7 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 * Tesoro (tesouro)
 * Sbaglio (erro)
 
-### SC
+### Letra SC
 
 * Scatola (caixa)
 * Pesca (pêssego)
@@ -140,7 +140,7 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 * Crescere (crescer)
 * Scivolare (escorregar)
 
-### Z
+### Letra Z
 
 * Grazie (obrigado)
 * Negozio (loja ou negócio)

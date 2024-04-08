@@ -35,48 +35,48 @@ Atente-se à vogais **curtas** e **longas**. Em italiano, apesar de sutil, a dis
 
 ## Vocabulário
 
-### A
+### Letra A
 
 * banana 
 * patata (batata)
 * antipasto (entrada)
 
-### I
+### Letra I
 
 * vino (vinho)
 * bambini (crianças)
 
-### U
+### Letra U
 
 * luna (lua)
 * funghi (cogumelo)
 * uva
 * lupo (lobo)
 
-### E (aberto)
+### Letra E (aberto)
 
 * sedia (cadeira)
 * festa
 * vento
 * tempo
 
-### E (fechado)
+### Letra E (fechado)
 
 * gelato (sorvete)
 * dentro
 
-### O (aberto)
+### Letra O (aberto)
 
 * no (não)
 * posta (correio)
 * moda
 
-### O (fechado)
+### Letra O (fechado)
 
 * mondo (mundo)
 * sole (sol)
 
-### Ditongos
+### Letra Ditongos
 
 * buono (bom)
 * lui (ele)
