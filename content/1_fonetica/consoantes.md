@@ -101,7 +101,7 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 * Gondola
 * Gamba (perna)
 * Gelato (sorvete)
-* Formaggio
+* Formaggio (queijo)
 * Giraffa
 * Gente
 * Ghiaccio (gelo)
@@ -132,7 +132,6 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 
 * Scatola (caixa)
 * Pesca (pêssego)
-* Disco
 * Scuola (escola)
 * Scarpa (tênis)
 * Uscita (saída)
