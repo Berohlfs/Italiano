@@ -9,16 +9,16 @@
 | ciao | oi | informal |
 | salve | Olá | formal |
 | buon giorno | Bom dia ou boa tarde | X |
-| buona sera | Boa noite (evening) | lembre-se, este é uma saudação de chegada |
+| buona sera | Boa noite (evening) | lembre-se, essa é uma saudação de chegada |
 
-## Saudações (depedida)
+## Saudações (despedida)
 
 | Italiano | Português | Observações | 
 | --- | --- | --- |
 | ciao | tchau | informal |
 | arrivederci | adeus | formal |
 | a presto | até logo | X |
-| buona notte | boa noite | lembre-se, este é uma saudação de despedida |
+| buona notte | boa noite | lembre-se, essa é uma saudação de despedida |
 
 ## Apresentações
 
@@ -37,6 +37,8 @@
 | come sta? | como estás? | formal |
 | come stanno, signori? | como estão, senhores? | formal |
 
+| Italiano | Português | Observações |
+| --- | --- | --- |
 | benissimo | perfeito | X |
 | benone | extremamente bem | X |
 | molto bene | muito bem | X |
