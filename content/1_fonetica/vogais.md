@@ -33,6 +33,14 @@ Atente-se à vogais **curtas** e **longas**. Em italiano, apesar de sutil, a dis
 
 * tono (tom) | tonno (atum)
 
+## Acentos
+
+A língua italiana tem dois acentos: `agudo/acuto` e `grave`.
+
+| Acuto (**´**) | Grave (**`**) |
+| --- | --- |
+| Diferentemente do português, o acento agudo italiano tem som fechado (equivalente ao nosso acento circunflexo) | O acento grave no italiano tem som aberto (equivalente ao acento agudo do português) |
+
 ## Vocabulário
 
 ### Letra A
