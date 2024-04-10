@@ -50,6 +50,9 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 1. A letra 'z' tem som de 'tz'.
 1. No entanto, a letra 'z' terá som de 'dz' quando começar uma palavra.
 
+* `QU`
+1. Diferentemente do português, a combinação 'qu' sempre destaca o som do 'u'. Por exemplo: 'cinque' (cinco) se pronuncia 'tchinCUÊ', e não 'tchinQUÊ'.
+
 ## Vocabulário
 
 ### Letra M
@@ -147,3 +150,8 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 * Zucchero (açucar)
 * Zebra
 * Zuppa (sopa)
+
+### Letra Q
+
+* cinque (cinco)
+* quattro (quatro)
