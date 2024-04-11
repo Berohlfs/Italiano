@@ -54,7 +54,7 @@
 
 | Italiano | Português | Observações |
 | --- | --- | --- |
-| scusa | me desculpe | informal |
+| scusa | me desculpe/com licença | informal |
 | scusate | me desculpem | informal |
 | scusi | me perdoe | formal |
 | scusino | me perdoem | formal |

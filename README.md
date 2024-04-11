@@ -6,6 +6,7 @@ Eu criei este repositório com a intenção de documentar meu aprendizado da lí
 
 * [Fonética](./content/1_fonetica/index.md)
 * [Primeiras frases](./content/2_primeiras_frases.md)
+* [Números](./content/3_numeros.md)
 
 ## Referências
 
