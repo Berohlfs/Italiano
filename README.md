@@ -4,10 +4,16 @@ Eu criei este repositório com a intenção de documentar meu aprendizado da lí
 
 ## Sumário
 
-* [Fonética](./content/1_fonetica/index.md)
-* [Primeiras frases](./content/2_primeiras_frases.md)
-* [Números](./content/3_numeros.md)
+* [Fonética](./content/fonetica/index.md)
+* [Números](./content/numeros.md)
+* [Duolingo - Unidade 01](./content/duolingo/unidade01/index.md)
+* [Duolingo - Unidade 02](./content/duolingo/unidade02/index.md)
 
-## Referências
+## Fontes e referências
 
 * [Italian - Professor Dave Explains](https://www.youtube.com/playlist?list=PLybg94GvOJ9FsOX3hUQsIm5NOJ2H6zh3a)
+* Duolingo
+
+## Livros
+
+* Il Piccolo Principe

@@ -21,7 +21,7 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 * `C`
 1. A letra 'c' nunca soa como 's', como em 'cinema' ou 'cidade'. 
 1. Antes das letras 'a', 'o' e 'u' (ca/co/cu), a letra 'c' terá som de 'k', como em 'carro'.
-1. Antes das letras 'i' e 'e' (ci/ce), a letra 'c' terá som de 'tchi', como em 'ti amo S2 :P'.
+1. Antes das letras 'i' e 'e' (ci/ce), a letra 'c' terá som de 'tchi', como em 'tchau'.
 
 * `CH` 
 1. A combinação 'ch' terá som de 'k'.
@@ -52,106 +52,3 @@ No entanto, essas letras poderão ser vistas em palavras derivadas de outras lí
 
 * `QU`
 1. Diferentemente do português, a combinação 'qu' sempre destaca o som do 'u'. Por exemplo: 'cinque' (cinco) se pronuncia 'tchinCUÊ', e não 'tchinQUÊ'.
-
-## Vocabulário
-
-### Letra M
-
-* Mano (mão)
-* Mare (mar)
-* Mamma (mãe)
-
-### Letra D
-
-* Dado 
-* Dollaro (dólar)
-* Drago (dragão)
-
-### Letra N
-
-* Nuvola (nuvem)
-* Nave (navio)
-* Nonno (Avô)
-
-### Letra R
-
-* Rosso (vermelho)
-
-### Letra C
-
-* Cavallo (cavalo)
-* Caffè (café)
-* Colosseo (Coliseu)
-* Cena (jantar)
-* Città (cidade)
-
-### Letra F
-
-* Facile (fácil)
-
-### Letra CH
-
-* Chiesa (igreja)
-* Occhi (olhos)
-* Bicchiere (copo)
-* Chiave (chave)
-* Tasche (bolso)
-* Scherzare (zoar/brincar)
-
-### Letra G
-
-* Gatto (gato)
-* Gondola
-* Gamba (perna)
-* Gelato (sorvete)
-* Formaggio (queijo)
-* Giraffa
-* Gente
-* Ghiaccio (gelo)
-
-### Letra GL 
-
-* Aglio (alho)
-* Foglia (folha)
-* Moglie (esposa)
-* Luglio (julho)
-* Bottiglia (garrafa)
-
-* Gnocchi (nhóque)
-* Lasagna (lasanha)
-* Signora (senhora)
-* Bagno (banheiro)
-* Sognare (sonhar)
-
-### Letra S
-
-* Sempre
-* Suono (som)
-* Rosa
-* Tesoro (tesouro)
-* Sbaglio (erro)
-
-### Letra SC
-
-* Scatola (caixa)
-* Pesca (pêssego)
-* Scuola (escola)
-* Scarpa (tênis)
-* Uscita (saída)
-* Scena (cena)
-* Crescere (crescer)
-* Scivolare (escorregar)
-
-### Letra Z
-
-* Grazie (obrigado)
-* Negozio (loja ou negócio)
-* Zero
-* Zucchero (açucar)
-* Zebra
-* Zuppa (sopa)
-
-### Letra Q
-
-* cinque (cinco)
-* quattro (quatro)

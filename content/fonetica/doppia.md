@@ -7,8 +7,6 @@ Uma 'doppia' ocorre quando existe a duplicação de uma consoante. Essa pequena 
 * Pala / palla (pá / bola)
 * Casa / cassa (casa / máquina registradora)
 * Nono / nonno (nono / avô)
-* Sono / sonno (sou / sono)
-* Copia / coppia (cópia / casal)
 
 ## Atenção
 
