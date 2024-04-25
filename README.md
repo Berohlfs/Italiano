@@ -6,8 +6,8 @@ Eu criei este repositório com a intenção de documentar meu aprendizado da lí
 
 * [Fonética](./content/fonetica/index.md)
 * [Números](./content/numeros.md)
-* [Duolingo - Unidade 01](./content/duolingo/unidade01/index.md)
-* [Duolingo - Unidade 02](./content/duolingo/unidade02/index.md)
+* [Duolingo - Unidade 01](./content/duolingo/unidade01.md)
+* [Duolingo - Unidade 02](./content/duolingo/unidade02.md)
 
 ## Fontes e referências
 
