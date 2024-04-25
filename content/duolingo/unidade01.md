@@ -30,10 +30,10 @@
 | tu | tu |
 | lui/lei | ele/ela |
 | noi | nós |
-| vós | vós |
+| voi | vós |
 | loro | eles/elas |
 
-# Verbo bere
+## Verbo beber (bere)
 
 | Italiano | Português |
 | --- | --- |
@@ -44,7 +44,7 @@
 | bevete | bebem |
 | bevono | bebem |
 
-# Verbo comer (mangiare)
+## Verbo comer (mangiare)
 
 | Italiano | Português |
 | --- | --- |
@@ -55,7 +55,7 @@
 | mangiate | comem |
 | mangiano | comem |
 
-# Verbo ser (essere)
+## Verbo ser (essere)
 
 | Italiano | Português |
 | --- | --- |
