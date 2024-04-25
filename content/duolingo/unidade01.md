@@ -33,14 +33,6 @@
 | vós | vós |
 | loro | eles/elas |
 
-## Vocabulário
-
-| Italiano | Português |
-| --- | --- |
-| donna | mulher |
-| uomo | homem |
-| ragazzo/ragazza | menino/menina |
-
 # Verbo bere
 
 | Italiano | Português |
@@ -74,4 +66,34 @@
 | siete | são |
 | sono | são |
 
+## Vocabulário
 
+| Italiano | Português |
+| --- | --- |
+| donna | mulher |
+| uomo | homem |
+| ragazzo/ragazza | menino/menina |
+
+| Italiano | Português |
+| --- | --- |
+| buonanotte | boa noite |
+| buonasera | boa noite |
+| buongiorno | bom dia |
+| arrividerci | tchau |
+| ciao | oi/tchau |
+
+| Italiano | Português |
+| --- | --- |
+| grazie | obrigado |
+| per favore | por favor | 
+| prego | de nada |
+| grazie mille | muito obrigado |
+| spiacente | sentido/pesaroso |
+
+* io sono spiacente | eu sinto muito
+
+| Italiano | Português |
+| --- | --- |
+| non | não (como negação de verbo) |
+| no | não |
+| sì | sim |
