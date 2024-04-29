@@ -4,4 +4,4 @@
 
 ## Artigos definidos
 
-![Artigos definidos](../../images/artigos-definidos.jpeg)
+<img src='../../images/artigos-definidos.jpeg' style='width:80%; max-width: 500px'>
