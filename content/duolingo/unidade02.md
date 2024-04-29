@@ -4,4 +4,4 @@
 
 ## Artigos definidos
 
-<img src='../../images/artigos-definidos.jpeg' style='width:80%; max-width: 500px'>
+<img src='../../images/artigos-definidos.jpeg' style='width:80%; max-width: 350px'>
