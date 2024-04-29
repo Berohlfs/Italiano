@@ -4,4 +4,4 @@
 
 ## Artigos definidos
 
-[Artigos definidos](../../images/artigos-definidos.jpeg)
+![Artigos definidos](../../images/artigos-definidos.jpeg)
