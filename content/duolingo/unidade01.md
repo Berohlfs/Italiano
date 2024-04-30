@@ -100,3 +100,7 @@
 | non | não (como negação de verbo) |
 | no | não |
 | sì | sim |
+
+## Verbos regulares
+
+![Verbos regulares](../../images/verbos_regulares.png)
