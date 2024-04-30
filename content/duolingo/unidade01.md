@@ -57,6 +57,9 @@
 
 ## Verbo ser (essere)
 
+* Em italiano, o verbo essere se comporta como o verbo 'to be' do inglês (é/está).
+* Na realidade, o verbo 'stare' (estar) é utilizado em outras situações mais específicas.
+
 | Italiano | Português |
 | --- | --- |
 | sono | sou |
@@ -79,7 +82,7 @@
 | buonanotte | boa noite |
 | buonasera | boa noite |
 | buongiorno | bom dia |
-| arrividerci | tchau |
+| arrivederci | tchau |
 | ciao | oi/tchau |
 
 | Italiano | Português |
@@ -90,7 +93,7 @@
 | grazie mille | muito obrigado |
 | spiacente | sentido/pesaroso |
 
-* io sono spiacente | eu sinto muito
+* io sono spiacente | eu sinto muito (não muito comum)
 
 | Italiano | Português |
 | --- | --- |
