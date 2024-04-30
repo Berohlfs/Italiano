@@ -33,7 +33,7 @@
 | voi | vós |
 | loro | eles/elas |
 
-## Verbo beber (bere)
+## Verbo beber (bere) REGULAR
 
 | Italiano | Português |
 | --- | --- |
@@ -44,7 +44,7 @@
 | bevete | bebem |
 | bevono | bebem |
 
-## Verbo comer (mangiare)
+## Verbo comer (mangiare) REGULAR
 
 | Italiano | Português |
 | --- | --- |
@@ -55,7 +55,7 @@
 | mangiate | comem |
 | mangiano | comem |
 
-## Verbo ser (essere)
+## Verbo ser (essere) IRREGULAR
 
 * Em italiano, o verbo essere se comporta como o verbo 'to be' do inglês (é/está).
 * Na realidade, o verbo 'stare' (estar) é utilizado em outras situações mais específicas.

@@ -12,7 +12,7 @@
 
 ![Plural](../../images/plural.png)
 
-## Verbo escrever (scrivere)
+## Verbo escrever (scrivere) REGULAR
 
 | Italiano | Português |
 | --- | --- |
@@ -23,7 +23,7 @@
 | scrivete | escrevem |
 | scrivono | escrevem |
 
-## Verbo ler (leggere)
+## Verbo ler (leggere) REGULAR
 
 | Italiano | Português |
 | --- | --- |
@@ -34,7 +34,7 @@
 | leggete | lêem |
 | leggono | lêem |
 
-## Verbo avere (ter)
+## Verbo avere (ter) IRREGULAR
 
 | Italiano | Português |
 | --- | --- |
