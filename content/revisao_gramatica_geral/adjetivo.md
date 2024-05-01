@@ -2,4 +2,4 @@
 
 # Adjetivo
 
-![Adjetivo](../../images/revisao_gramatica_geral/adjeivo.png)
+![Adjetivo](../../images/revisao_gramatica_geral/adjetivo.png)
