@@ -144,3 +144,4 @@
 ## Pronomes oblíquos
 
 ![Pronomes oblíquos](../../images/duolingo/pronomes-obliquos.jpg)
+![Pronomes oblíquos - atenção](../../images/duolingo/pronomes-atencao.png)
