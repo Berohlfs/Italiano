@@ -17,6 +17,9 @@
 
 * Funções sintáticas
 * Orações, frases e períodos
+* Colocação pronominal
+* Transitividade (verbal e nominal)
+* Pronomes oblíquos tônicos e átonos
 
 
 
