@@ -3,15 +3,15 @@
 # Revisão de gramática geral
 
 * [Substantivo](./substantivo.md)
-* [Adjetivo](./)
-* [Verbo](./)
-* [Advérbio](./)
-* [Artigo](./)
-* [Pronome](./)
-* [Preposição](./)
-* [Conjunção](./)
-* [Interjeição](./)
-* [Numeral](./)
+* [Adjetivo](./adjetivo.md)
+* [Verbo](./verbo.md)
+* [Advérbio](./adverbio.md)
+* [Artigo](./artigo.md)
+* [Pronome](./pronome.md)
+* [Preposição](./preposicao.md)
+* [Conjunção](./conjuncao.md)
+* [Interjeição](./interjeicao.md)
+* [Numeral](./numeral.md)
 
 
 
