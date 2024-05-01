@@ -5,10 +5,10 @@ Eu criei este repositório com a intenção de documentar meu aprendizado da lí
 ## Sumário
 
 * [Revisão de gramática geral](./content/revisao_gramatica_geral/index.md)
-* [Fonética](./content/fonetica/index.md)
+* [Fonética](./content/fonetica_italiana/index.md)
 * [Números](./content/numeros.md)
-* [Duolingo - Unidade 01](./content/duolingo/unidade01.md)
-* [Duolingo - Unidade 02](./content/duolingo/unidade02.md)
+* [Duolingo - Unidade 01](./content/duolingo_italiano/unidade01.md)
+* [Duolingo - Unidade 02](./content/duolingo_italiano/unidade02.md)
 
 ## Fontes e referências
 

@@ -13,5 +13,10 @@
 * [Interjeição](./interjeicao.md)
 * [Numeral](./numeral.md)
 
+## Outros temas
+
+* Funções sintáticas
+* Orações, frases e períodos
+
 
 
