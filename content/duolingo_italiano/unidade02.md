@@ -141,4 +141,6 @@
 
 ![Preposições](../../images/duolingo/preposicoes.webp)
 
-lo
+## Pronomes oblíquos
+
+![Pronomes oblíquos](../../images/duolingo/pronomes-obliquos.jpg)
