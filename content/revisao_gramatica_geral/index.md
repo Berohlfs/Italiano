@@ -1,8 +1,8 @@
 [Voltar](../../README.md)
 
-# Revisão gramática
+# Revisão de gramática geral
 
-* [Substantivo](./)
+* [Substantivo](./substantivo.md)
 * [Adjetivo](./)
 * [Verbo](./)
 * [Advérbio](./)

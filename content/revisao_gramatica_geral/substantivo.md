@@ -2,4 +2,4 @@
 
 # Substantivo
 
-![Substantivos](../../images/revisao_gramatica_geral/substantivos.png)
+![Substantivo](../../images/revisao_gramatica_geral/substantivo.png)
