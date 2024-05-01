@@ -33,7 +33,7 @@
 | voi | vós |
 | loro | eles/elas |
 
-## Verbo beber (bere) REGULAR
+## Verbo beber (bere) IRREGULAR
 
 | Italiano | Português |
 | --- | --- |
