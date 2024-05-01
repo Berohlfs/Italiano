@@ -103,4 +103,4 @@
 
 ## Verbos regulares
 
-![Verbos regulares](../../images/verbos_regulares.png)
+![Verbos regulares](../../images/duolingo/verbos_regulares.png)

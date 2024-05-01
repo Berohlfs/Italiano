@@ -4,13 +4,13 @@
 
 ## Artigos definidos (continuação)
 
-![Artigos definidos](../../images/artigos-definidos.jpg)
+![Artigos definidos](../../images/duolingo/artigos-definidos.jpg)
 
 ## Plural
 
 * Existem algumas exceções. Por exemplo: la città | le città
 
-![Plural](../../images/plural.png)
+![Plural](../../images/duolingo/plural.png)
 
 ## Verbo escrever (scrivere) REGULAR
 
@@ -139,4 +139,6 @@
 
 ## Preposições
 
-![Preposições](../../images/preposicoes.webp)
+![Preposições](../../images/duolingo/preposicoes.webp)
+
+lo
