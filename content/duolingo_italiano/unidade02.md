@@ -126,7 +126,7 @@
 | Italiano | Português |
 | --- | --- |
 | tazza | xícara |
-| piato | prato |
+| piatto | prato |
 | ciotola | tigela |
 | bottiglia | garrafa |
 | forchetta | garfo |
